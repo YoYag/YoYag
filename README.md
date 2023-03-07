@@ -1,4 +1,4 @@
-### Hi there 👋
+### 풀스택 개발자를 꿈꾸며 React 프론트엔드 개발에 자신있는 YoYag 입니다. 👋
 
 <!--
 **YoYag/YoYag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
